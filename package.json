@@ -1,0 +1,16 @@
+{
+  "name": "generative-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LLM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.5.0",
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
